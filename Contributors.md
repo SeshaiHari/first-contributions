@@ -17407,6 +17407,7 @@ Mário Baltazar
 - [Janine Prukop](https://github.com/JaninePrukop)
 - [Jefferson Chen](https://github.com/chenjefferson)
 - [Murat Ahmet Korkmaz](https://github.com/ahmetkorkmaz3)
+- [Seshai Hari S B](https://github.com/seshaihari)
 - [Arzyon](https://github.com/Arzyon)
 - [Alex H](https://github.com/afhare/)
 - [Martin Carles](https://github.com/martincarles)
